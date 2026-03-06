@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# YOLO outputs
+runs/
+
+# Captured images/videos
+captures/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
